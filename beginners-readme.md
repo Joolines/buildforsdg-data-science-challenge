@@ -32,3 +32,8 @@ By the end of the competition, participants will have gained valuable experience
 ### Hands-on project - (Select One)
 - Exploratory Data Analysis for Customer Sales: Conduct exploratory data analysis on a customer sales dataset, identifying trends, patterns, and insights to inform business decision-making. This could involve using statistical analysis techniques, data visualization, and hypothesis testing.
 - Predicting House Prices: Develop a machine learning model to predict house prices based on features like location, square footage, and number of bedrooms/bathrooms. This could involve data cleaning, feature engineering, model selection, and evaluation metrics.
+
+## How to submit 
+- Create a new branch or fork this repo, your answers to the theory questions should be in a readme or txt file.
+- The solutions to the hands-on can be created in the repository too.
+- Create a pull request when you are ready to submit.

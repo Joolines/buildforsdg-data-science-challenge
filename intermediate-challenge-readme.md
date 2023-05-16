@@ -19,3 +19,7 @@
 - Sentiment Analysis for Social Media: Develop a sentiment analysis model to analyze social media posts and comments and classify them into positive, negative, or neutral categories. The model should help businesses monitor their brand reputation, understand customer feedback, and identify opportunities for improvement.
 - Predictive Maintenance for Industrial Equipment: Develop a predictive maintenance model to detect potential equipment failures before they occur, using sensor data from industrial machinery. The model should be able to identify the specific components that are likely to fail and provide recommendations for maintenance actions to prevent unplanned downtime.
 
+## How to submit 
+- Create a new branch or fork this repo, your answers to the theory questions should be in a readme or txt file.
+- The solutions to the hands-on can be created in the repository too.
+- Create a pull request when you are ready to submit.
